@@ -1,0 +1,4 @@
+C:\C#Projects\GrmPlatformDistributor\DomainModel\bin\Debug\DomainModel.dll
+C:\C#Projects\GrmPlatformDistributor\DomainModel\bin\Debug\DomainModel.pdb
+C:\C#Projects\GrmPlatformDistributor\DomainModel\obj\Debug\DomainModel.dll
+C:\C#Projects\GrmPlatformDistributor\DomainModel\obj\Debug\DomainModel.pdb

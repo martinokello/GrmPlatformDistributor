@@ -1,0 +1,13 @@
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\GrmPlatformTest.dll
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\GrmPlatformTest.pdb
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\obj\Debug\GrmPlatformTest.dll
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\obj\Debug\GrmPlatformTest.pdb
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\obj\Debug\GrmPlatformTest.csprojResolveAssemblyReference.cache
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\DomainModel.dll
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\FileDataAccess.dll
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\GrmPlatformDistributor.exe
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\DomainModel.pdb
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\FileDataAccess.pdb
+C:\C#Projects\GrmPlatformDistributor\GrmPlatformTest\bin\Debug\GrmPlatformDistributor.pdb
