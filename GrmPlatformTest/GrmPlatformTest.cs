@@ -4,6 +4,7 @@ using DomainModel.Models;
 using GrmPlatformDistributor.Concretes;
 using GrmPlatformDistributor.Interfaces;
 using System.Globalization;
+using System.Linq;
 using GrmPlatformDistributor;
 
 namespace GrmPlatformTest
@@ -50,6 +51,26 @@ namespace GrmPlatformTest
         {
             var records = _itunesStrategy.Search(new SearchTerm { Distributor = "ITunes", StartDate = DateTime.Parse("01 June 2012", new DateTimeFormatInfo { FullDateTimePattern = "dd MMM yyyy" }) });
             Assert.AreEqual(5, records.Length);
+        }
+        [TestMethod]
+        public void Test_ISearchOn_YouTube_Returns_A_Result_As_Expected()
+        {
+            var recordToReturn =
+            new SearchTerm
+            {
+                Distributor = "YouTube",
+                StartDate = DateTime.Parse("01 Feb 2012", new DateTimeFormatInfo {FullDateTimePattern = "dd MMM yyyy"})
+            };
+            var records = _youTubeStrategy.Search(recordToReturn);
+            Assert.IsTrue(records.Contains(_records[0]));
+        }
+
+        [TestMethod]
+        public void Test_ISearchOn_Itunes_Returns_A_Result_As_Expected()
+        {
+            var recordToReturn = (new SearchTerm { Distributor = "ITunes", StartDate = DateTime.Parse("01 Feb 2012", new DateTimeFormatInfo { FullDateTimePattern = "dd MMM yyyy" }) });
+            var records = _youTubeStrategy.Search(recordToReturn);
+            Assert.IsTrue(records.Contains(_records[0]));
         }
         [TestMethod]
         public void Test_IPrintOn_YouTube_Prints_Correctly()
