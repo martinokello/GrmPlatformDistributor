@@ -5,3 +5,10 @@ C:\C#Projects\GrmPlatformDistributor\FileDataAccess\bin\Debug\DomainModel.pdb
 C:\C#Projects\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.csprojResolveAssemblyReference.cache
 C:\C#Projects\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.dll
 C:\C#Projects\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.pdb
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\bin\Debug\FileDataAccess.dll
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\bin\Debug\FileDataAccess.pdb
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\bin\Debug\DomainModel.dll
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\bin\Debug\DomainModel.pdb
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.csprojResolveAssemblyReference.cache
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.dll
+C:\C#Projects2\GrmPlatformDistributor\FileDataAccess\obj\Debug\FileDataAccess.pdb
